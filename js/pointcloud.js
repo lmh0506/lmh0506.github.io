@@ -74,7 +74,7 @@ FI.PointCloud = new function () {
         initHeartBeat();
       }, 2000)
     }
-    logo.src = "/love/img/test.png";
+    logo.src = "/img/test.png";
 
     // update the camera
     camera.position.z = DEPTH;
