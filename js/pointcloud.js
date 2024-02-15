@@ -359,7 +359,7 @@ FI.PointCloud = new function () {
       shader: A3.ShaderLibrary.get({
         type: "Particle",
         particleSize: 32,
-        texture: new A3.Texture("/love/img/heart.png")
+        texture: new A3.Texture("/img/heart.png")
       }),
       renderType: "Particle",
       depthTest: false,
